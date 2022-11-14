@@ -1,1 +1,3 @@
 # bookscraper
+
+Our team worked on a Book Scraper project. First of all, we decided to implement web scraping with the Python library BeautifulSoap to collect information in easy way. Our next step was inspecting the page of the provided book library. We extracted such book's parameters as Name, Availability, Price, URL, UPS, and Category in the "div" tag. After this, in the Python file, we coded steps for extracting data and storing results into a CSV file. If our team had more time, we would like to create an HTML website that would have a filter from table search. It could make the process of finding the book easier and much more convenient for customers.
