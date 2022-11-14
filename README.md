@@ -9,7 +9,7 @@ There are 3 files attahced to this project:
    this is a csv file that shows a dataframe, which is a result of web scraper above
 3) data_analysis_and_dash_app.ipynb
    here is a code for analysis we did and dash app we created based on web scraped data
-4) dash.html
+4) Dash.html
    here you can find the result of the above code, website application with analysis
    
    
