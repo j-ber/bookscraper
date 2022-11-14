@@ -7,7 +7,7 @@ There are 3 files attahced to this project:
    here you will find a code that we used to get books data from http://books.toscrape.com/  
 2) books_scraped.csv
    this is a csv file that shows a dataframe, which is a result of web scraper above
-3) data_analysis_and_dash_app.ipynb
+3) data_analysis_dash_app.ipynb
    here is a code for analysis we did and dash app we created based on web scraped data
 4) Dash.html
    here you can find the result of the above code, website application with analysis
